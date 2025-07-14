@@ -1,0 +1,54 @@
+{
+  "ahorro": [
+    {
+      "pregunta": "¿Qué es el ahorro?\n a) Gastar todo\n b) Separar dinero\n c) Pedir prestado",
+      "respuesta": "b"
+    },
+    {
+      "pregunta": "¿Para qué sirve ahorrar?\n a) Gastar más\n b) Tener reservas\n c) Deber dinero",
+      "respuesta": "b"
+    }
+  ],
+  "presupuesto": [
+    {
+      "pregunta": "¿Qué es un presupuesto?\n a) Registro de ingresos y gastos\n b) Un préstamo\n c) Un regalo",
+      "respuesta": "a"
+    },
+    {
+      "pregunta": "¿Por qué hacer un presupuesto?\n a) Controlar el dinero\n b) Gastar más\n c) No sirve de nada",
+      "respuesta": "a"
+    }
+  ],
+  "credito": [
+    {
+      "pregunta": "¿Qué incluye el crédito?\n a) Devolución con intereses\n b) Devolución sin intereses\n c) No se devuelve",
+      "respuesta": "a"
+    },
+    {
+      "pregunta": "¿Cómo usar el crédito?\n a) Con responsabilidad\n b) Sin pensar\n c) Siempre",
+      "respuesta": "a"
+    }
+  ],
+  "emprendimiento": [
+    {
+      "pregunta": "¿Qué es emprender?\n a) Crear un negocio\n b) Pedir dinero\n c) Gastar dinero",
+      "respuesta": "a"
+    },
+    {
+      "pregunta": "¿Qué debes identificar?\n a) Necesidad en la comunidad\n b) Un banco\n c) Un problema personal",
+      "respuesta": "a"
+    }
+  ],
+  "finanzasDigitales": [
+    {
+      "pregunta": "¿Qué son finanzas digitales?\n a) Apps bancarias y billeteras\n b) Libros de cuentas\n c) Monedas antiguas",
+      "respuesta": "a"
+    },
+    {
+      "pregunta": "¿Para qué sirven?\n a) Pagar y ahorrar\n b) Gastar sin control\n c) Perder dinero",
+      "respuesta": "a"
+    }
+  ]
+}
+
+

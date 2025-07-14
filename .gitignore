@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+auth_info/
+
+.DS_Store
+Thumbs.db
+
+.env
+
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+dist/
+build/
+
+*.swp
+*.tmp
+
+.git/
+
+coverage/
+
+
