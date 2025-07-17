@@ -47,10 +47,12 @@ const {
   
       const state = sessionState[from];
   
-      if (['hola', 'hi', 'buenas', 'inicio'].includes(text)) {
+      if (['hola', 'hi', 'buenas', 'inicio', 'buenos dias', 'buenas tardes', 'buenas noches' ].includes(text)) {
         state.step = 'inicio';
         await sock.sendMessage(from, { text: 
-  `👋 Hola! Soy tu asistente financiero.
+  `👋 ¡Hola! Bienvenida al Chat de Finanzas para Mujeres 💬
+    Soy tu asistente virtual y estoy aquí para acompañarte en el camino hacia una mejor organización de tu dinero.
+    No necesitas ser experta, ¡empezamos desde lo básico!
   
   Escribe el número del tema que quieres aprender:
   

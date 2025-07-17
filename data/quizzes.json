@@ -1,54 +1,73 @@
 {
   "ahorro": [
     {
-      "pregunta": "¿Qué es el ahorro?\n a) Gastar todo\n b) Separar dinero\n c) Pedir prestado",
+      "pregunta": "¿Cuál es una estrategia efectiva para fomentar el hábito del ahorro?\n a) Ahorrar sólo si sobra dinero\n b) Programar transferencias automáticas a una cuenta de ahorro\n c) Guardar el dinero en casa",
       "respuesta": "b"
     },
     {
-      "pregunta": "¿Para qué sirve ahorrar?\n a) Gastar más\n b) Tener reservas\n c) Deber dinero",
+      "pregunta": "¿Qué característica debe tener una meta de ahorro para que sea útil?\n a) Ser vaga y flexible\n b) Estar definida y tener un plazo claro\n c) Depender de los ingresos del mes",
+      "respuesta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es una ventaja de ahorrar en una entidad financiera formal?\n a) No se paga ningún impuesto\n b) Hay menor riesgo de pérdida o robo\n c) Se puede retirar el dinero sin registro",
       "respuesta": "b"
     }
   ],
   "presupuesto": [
     {
-      "pregunta": "¿Qué es un presupuesto?\n a) Registro de ingresos y gastos\n b) Un préstamo\n c) Un regalo",
-      "respuesta": "a"
+      "pregunta": "¿Qué elemento no puede faltar al elaborar un presupuesto personal?\n a) El número de personas en tu hogar\n b) La lista de metas personales\n c) Los ingresos y los gastos mensuales",
+      "respuesta": "c"
     },
     {
-      "pregunta": "¿Por qué hacer un presupuesto?\n a) Controlar el dinero\n b) Gastar más\n c) No sirve de nada",
-      "respuesta": "a"
+      "pregunta": "¿Qué se recomienda hacer si los gastos superan a los ingresos?\n a) Ignorar los gastos pequeños\n b) Ajustar o reducir los gastos variables\n c) Solicitar un crédito inmediato",
+      "respuesta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo principal de un presupuesto?\n a) Obtener más créditos\n b) Controlar y planear el uso del dinero\n c) Evitar pagar impuestos",
+      "respuesta": "b"
     }
   ],
   "credito": [
     {
-      "pregunta": "¿Qué incluye el crédito?\n a) Devolución con intereses\n b) Devolución sin intereses\n c) No se devuelve",
-      "respuesta": "a"
+      "pregunta": "¿Qué aspecto se debe evaluar antes de solicitar un crédito?\n a) La opinión de familiares\n b) La tasa de interés y capacidad de pago\n c) La publicidad del banco",
+      "respuesta": "b"
     },
     {
-      "pregunta": "¿Cómo usar el crédito?\n a) Con responsabilidad\n b) Sin pensar\n c) Siempre",
-      "respuesta": "a"
+      "pregunta": "¿Cuál es una consecuencia de incumplir los pagos de un crédito?\n a) Se cancelan las deudas\n b) Aumenta tu puntaje financiero\n c) Se generan intereses y afecta tu historial crediticio",
+      "respuesta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es una forma responsable de usar el crédito?\n a) Financiar compras innecesarias\n b) Usarlo solo cuando es urgente y necesario\n c) Pedir el monto máximo permitido",
+      "respuesta": "b"
     }
   ],
   "emprendimiento": [
     {
-      "pregunta": "¿Qué es emprender?\n a) Crear un negocio\n b) Pedir dinero\n c) Gastar dinero",
-      "respuesta": "a"
+      "pregunta": "¿Qué debe hacer primero una persona que quiere emprender?\n a) Copiar un negocio exitoso\n b) Identificar una necesidad en su entorno\n c) Comprar productos para vender",
+      "respuesta": "b"
     },
     {
-      "pregunta": "¿Qué debes identificar?\n a) Necesidad en la comunidad\n b) Un banco\n c) Un problema personal",
-      "respuesta": "a"
+      "pregunta": "¿Qué factor es clave para la sostenibilidad de un emprendimiento?\n a) Tener muchos productos\n b) Hacer promociones constantes\n c) Conocer bien a los clientes y sus necesidades",
+      "respuesta": "c"
+    },
+    {
+      "pregunta": "¿Qué puede ayudar a diferenciar un emprendimiento del resto?\n a) Imitar los precios de la competencia\n b) Ofrecer algo único o con valor agregado\n c) Cambiar de idea frecuentemente",
+      "respuesta": "b"
     }
   ],
   "finanzasDigitales": [
     {
-      "pregunta": "¿Qué son finanzas digitales?\n a) Apps bancarias y billeteras\n b) Libros de cuentas\n c) Monedas antiguas",
-      "respuesta": "a"
+      "pregunta": "¿Cuál es una ventaja de utilizar billeteras digitales como Nequi o Daviplata?\n a) El dinero no se puede rastrear\n b) Permiten realizar pagos y transferencias de forma rápida y segura\n c) No necesitan verificación de identidad",
+      "respuesta": "b"
     },
     {
-      "pregunta": "¿Para qué sirven?\n a) Pagar y ahorrar\n b) Gastar sin control\n c) Perder dinero",
-      "respuesta": "a"
+      "pregunta": "¿Qué se recomienda al usar apps financieras en el celular?\n a) Compartir la clave con familiares\n b) Usar contraseñas seguras y no revelar datos personales\n c) Dejar la sesión siempre abierta",
+      "respuesta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es una función común de las aplicaciones de finanzas digitales?\n a) Solicitar préstamos sin condiciones\n b) Registrar gastos y recibir notificaciones de movimientos\n c) Imprimir cheques automáticamente",
+      "respuesta": "b"
     }
   ]
 }
-
 
